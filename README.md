@@ -92,8 +92,6 @@ NovaBank-Banking-Operations-Dashboard/
 ├── 02_transaction_diagnostics.png
 └── README.md
 
-![Overview Dashboard](01_overview_dashboard.png)
-![Transaction Diagnostics](02_transaction_diagnostics.png)
 
 
 
