@@ -1,4 +1,3 @@
-# novabank-banking-operations-dashboard
 # NovaBank — Banking Operations & Transaction Performance Dashboard
 
 An interactive Power BI dashboard designed to analyze banking transaction performance, operational efficiency, transaction outcomes, and rejection patterns across multiple payment channels.
