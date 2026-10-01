@@ -86,7 +86,6 @@ Provides a detailed view of:
 
 ## 📁 Project Structure
 
-```text
 NovaBank-Banking-Operations-Dashboard/
 │
 ├── 01_overview_dashboard.png
