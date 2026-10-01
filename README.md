@@ -89,8 +89,12 @@ Provides a detailed view of:
 ```text
 NovaBank-Banking-Operations-Dashboard/
 │
-├── ![Overview Dashboard](01_overview_dashboard.png)
-├── ![Transaction Diagnostics](02_transaction_diagnostics.png)
+├── 01_overview_dashboard.png
+├── 02_transaction_diagnostics.png
 └── README.md
+
+![Overview Dashboard](01_overview_dashboard.png)
+![Transaction Diagnostics](02_transaction_diagnostics.png)
+
 
 
